@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GAN Security Learning Project
 
 A step-by-step journey learning about Generative Adversarial Networks (GANs) and AI Security.
@@ -62,3 +63,7 @@ GAN-Security-Learning/
 
 ## Learning Path
 Each notebook is a lesson that builds on previous ones. Start with `01_mnist_gan.ipynb`.
+=======
+# GAN-Security-Learning
+Learning about AI Security through Generative Adversarial Networks (GANs)
+>>>>>>> 912b6c86e7f66301164526860ab61ed07f0af2ad
